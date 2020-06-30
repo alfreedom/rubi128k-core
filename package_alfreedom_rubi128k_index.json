@@ -2,7 +2,7 @@
     "packages":
     [
         {
-            "name": "Rubi 128k",
+            "name": "Rubi 128k - AVR board with ATmega128 microcontroller.",
             "maintainer": "Alfreedom",
             "websiteURL": "https://alfreedom.github.io/rubi128k-core/",
             "email": "alfredoopa@gmail.com",
