@@ -14,7 +14,7 @@
                 {
                     "name": "Alfreedom Boards",
                     "architecture": "avr",
-                    "version": "1.0.0",
+                    "version": "1.0.1",
                     "category": "Contributed",
                     "url": "https://alfreedom.github.io/rubi128k-core/rubi128kCore-Alfreedom-1.0.0.tar.gz",
                     "archiveFileName": "rubi128kCore-Alfreedom-1.0.0.tar.gz",
