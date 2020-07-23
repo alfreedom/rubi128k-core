@@ -12,7 +12,7 @@
             "platforms": 
             [
                 {
-                    "name": "Rubi 128k",
+                    "name": "Alfreedom Boards",
                     "architecture": "avr",
                     "version": "1.0.0",
                     "category": "Contributed",
@@ -24,7 +24,7 @@
                     "boards" :
                     [
                         {
-                            "name": "Rubi 128k"
+                            "name": "Rubí 128k"
                         }
                     ]
                 }
