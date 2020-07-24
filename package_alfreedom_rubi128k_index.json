@@ -3,7 +3,7 @@
     [
         {
             "name": "Rubi 128k - AVR board with ATmega128 microcontroller.",
-            "maintainer": "Alfreedom",
+            "maintainer": "Alfreedom Labs",
             "websiteURL": "https://alfreedom.github.io/rubi128k-core/",
             "email": "alfredoopa@gmail.com",
             "help": {
@@ -15,6 +15,23 @@
                     "name": "Alfreedom Boards",
                     "architecture": "avr",
                     "version": "1.0.1",
+                    "category": "Contributed",
+                    "url": "https://alfreedom.github.io/rubi128k-core/rubi128kCore-Alfreedom-1.0.0.tar.gz",
+                    "archiveFileName": "rubi128kCore-Alfreedom-1.0.0.tar.gz",
+                    "checksum": "SHA-256:6ce48fe84274d1894fc0ac900d4781a84360d09572ad46b9cf9a12a5bbae6e39",
+                    "size": "295849",
+                    "toolsDependencies": [],
+                    "boards" :
+                    [
+                        {
+                            "name": "Rubí 128k"
+                        }
+                    ]
+                },
+                {
+                    "name": "Alfreedom Boards",
+                    "architecture": "avr",
+                    "version": "1.0.0",
                     "category": "Contributed",
                     "url": "https://alfreedom.github.io/rubi128k-core/rubi128kCore-Alfreedom-1.0.0.tar.gz",
                     "archiveFileName": "rubi128kCore-Alfreedom-1.0.0.tar.gz",
